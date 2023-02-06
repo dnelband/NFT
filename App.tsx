@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My NFT app ok!</Text>
+      <Text>My NFT app!</Text>
       <StatusBar style="auto" />
     </View>
   );
